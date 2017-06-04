@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Rhode Island Department of Administration, Statewide Planning Program</origin>
+<pubdate>20140318</pubdate>
+<title>Rhode Island Coastal Waters; cstlWaters14</title>
+<edition>2014</edition>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>Providence, Rhode Island</pubplace>
+<publish>Rhode Island Department of Administration, Statewide Planning Program</publish>
+</pubinfo>
+<othercit>Suggested bibliographic reference: RIGIS, 2014.  Rhode Island Coastal Waters; cstlWaters14. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 02 October 2014).</othercit>
+<onlink>http://www.rigis.org</onlink>
+<lworkcit>
+<citeinfo>
+<origin>Rhode Island Geographic Information System</origin>
+<pubdate>1993</pubdate>
+<title>Rhode Island Geographic Information System (RIGIS) Data Distribution System</title>
+<onlink>http://www.rigis.org</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This dataset represents coastal waters and the coastline of Rhode Island, as well as portions of neighboring Connecticut, Massachusetts, and New York.  Includes Narragansett Bay, salt ponds, and tributaries.</abstract>
+<purpose>This data represents Rhode Island coastal waters and its coastline, and is intended for cartographic purposes.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>1984</begdate>
+<enddate>2011</enddate>
+</rngdates>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-72.128658</westbc>
+<eastbc>-70.912728</eastbc>
+<northbc>41.876465</northbc>
+<southbc>40.908934</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Coastal Waters</themekey>
+<themekey>Bay</themekey>
+<themekey>Estuaries</themekey>
+<themekey>Salt Ponds</themekey>
+<themekey>Ocean</themekey>
+<themekey>Coastline</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>Rhode Island</placekey>
+<placekey>Massachusetts</placekey>
+<placekey>Connecticut</placekey>
+<placekey>New England</placekey>
+<placekey>Northeast</placekey>
+<placekey>United States</placekey>
+</place>
+</keywords>
+<accconst>None.</accconst>
+<useconst>
+These data were created for informational, planning and guidance use only. They are a general reference, not a legally authoritative source for the location of natural or manmade features. Proper interpretation of these data may requre the assistance of appropriate professional services. The cartographic representations depicted have not been verified by a RI Registered Professional Land Surveyor and are not intended to be used in place of a survey. The producer makes no warranty, express or implied, related to the accuracy, reliability, completeness, or currentness of these data.
+This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products.  Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>RI Department of Administration</cntorg>
+<cntper>Christina Delage Baza, GISP</cntper>
+</cntorgp>
+<cntpos>GIS Specialist II</cntpos>
+<cntaddr>
+<addrtype>physical</addrtype>
+<address>One Capitol Hill</address>
+<city>Providence</city>
+<state>Rhode Island</state>
+<postal>02908</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>401-222-6481</cntvoice>
+<cntfax>401-222-2083</cntfax>
+<cntemail>Christina.Delagebaza@doa.ri.gov</cntemail>
+<hours>8:30am to 4:30pm</hours>
+<cntinst>e-mail is preferred</cntinst>
+</cntinfo>
+</ptcontac>
+<datacred>RI Department of Administration, Statewide Planning Program</datacred>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; Esri ArcGIS 10.1.1.3143</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>Visually verified and considered to be accurate.</attraccr>
+</attracc>
+<logic>No formal testing performed, however the spatial data are generally believed to be consistent with waterbody delineations shown on USGS 7.5 minute 1:24,000 scale topographic maps</logic>
+<complete>All marine and estuarine waterbodies documented in the 2008 RI Integrated Water Quality Report are included here.</complete>
+<posacc>
+<horizpa>
+<horizpar>Meets National Map Accuracy Standards for 1:24000 Scale</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Rhode Island Department of Environmental Management, Office of Water Resources</origin>
+<pubdate>20130325</pubdate>
+<title>Marine and Estuarine Waters: RI Integrated Water Quality Monitoring and Assessment Report 2012; estuaries_IWQMA2012</title>
+<edition>2012</edition>
+<onlink>http://www.rigis.org</onlink>
+</citeinfo>
+</srccite>
+<typesrc>digital vector data</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>20110901</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>Marine and Estuarine Waters</srccitea>
+<srccontr>Marine and Estuarine waterbody shoreline vectors</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>MassGIS</origin>
+<pubdate>20080114</pubdate>
+<title>MA State Outline (25K coast) Polygon</title>
+<edition>March 1991</edition>
+<geoform>Shapefile</geoform>
+<onlink>http://www.mass.gov</onlink>
+</citeinfo>
+</srccite>
+<typesrc>digital vector data</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>20080114</caldate>
+</sngdate>
+</timeinfo>
+</srctime>
+<srccitea>MA State Boundary</srccitea>
+<srccontr>MA coastline vectors</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Connecticut Department of Environmental Protection</origin>
+<pubdate>19840101</pubdate>
+<title>1984 Connecticut Towns - Polygons</title>
+<edition>1984</edition>
+<geoform>Shapefile</geoform>
+<onlink>http://magic.lib.uconn.edu</onlink>
+</citeinfo>
+</srccite>
+<typesrc>digital vector data</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>19840101</caldate>
+</sngdate>
+</timeinfo>
+</srctime>
+<srccitea>CT Town Boundary</srccitea>
+<srccontr>CT coastline vectors.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Rhode Island Department of Transportation, MIS/GIS Section</origin>
+<pubdate>200108</pubdate>
+<title>State, Coastline, Town Boundaries</title>
+<edition>2001</edition>
+<geoform>shapefile</geoform>
+<onlink>http://www.rigis.org</onlink>
+</citeinfo>
+</srccite>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>200108</caldate>
+</sngdate>
+</timeinfo>
+</srctime>
+<srccitea>Rhode Island Boundaries</srccitea>
+<srccontr>RI coastline and boundaries; the foundation for which this new dataset was built.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<pubdate>20070701</pubdate>
+<title>NYS County Boundaries - 1:24,000 (Shoreline Version)</title>
+<onlink>https://gis.ny.gov/gisdata/inventories/details.cfm?DSID=910</onlink>
+</citeinfo>
+</srccite>
+<srcscale>1:24,000</srcscale>
+<typesrc>None</typesrc>
+<srccitea>NYS County Boundaries - 1:24,000 (Shoreline Version)</srccitea>
+<srccontr>NYSGIS Clearinghouse</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>CT boundary was used to erase land areas leaving a matching CT coastline. The MA boundary was then used to erase land areas leaving a matching MA coastline. Data boundary was then extended past Block Island and into surrounding MA and CT coastal waters.  Added a new attibute field called 'Water,' and dissolved Esturaries_IWQMA12 dataset based on "Water = Yes."  NY shoreline boundary was then used to erase land areas leaving a matching NY coastline around Fisher Island.  Removed small NY Islands from the Coastal Water dataset by heads-up digitizing from ArcGIS Online World_Imagery.</procdesc>
+<srcused>Rhode Island Boundaries</srcused>
+<srcused>CT Town Boundary</srcused>
+<srcused>MA State Boundary</srcused>
+<srcused>Marine and Estuarine Waters</srcused>
+<srcused>NYS County Boundaries - 1:24,000 (Shoreline Version)</srcused>
+<procdate>20140318</procdate>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Christina Delage Baza</cntper>
+<cntorg>RI Department of Administration</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>physical</addrtype>
+<address>One Capitol Hill</address>
+<city>Providence</city>
+<state>Rhode Island</state>
+<postal>02908</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>401-222-6481</cntvoice>
+<cntemail>Christina.Delagebaza@doa.ri.gov</cntemail>
+<hours>8:30am to 4:30pm</hours>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Data contributed to RIGIS by the Rhode Island Department of Administration, Statewide Planning Program.  Metadata were reviewed, minor corrections made to formatting and content, RIGIS distribution information added.</procdesc>
+<procdate>20140318</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Erica Tefft</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>erica_tefft@my.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>GT-polygon composed of chains</sdtstype>
+<ptvctcnt>20</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<mapproj>
+<mapprojn>NAD 1983 StatePlane Rhode Island FIPS 3800 Feet</mapprojn>
+<transmer>
+<sfctrmer>0.99999375</sfctrmer>
+<longcm>-71.5</longcm>
+<latprjo>41.08333333333334</latprjo>
+<feast>328083.3333333333</feast>
+<fnorth>0.0</fnorth>
+</transmer>
+</mapproj>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000000007286382608384659</absres>
+<ordres>0.000000007286382608384659</ordres>
+</coordrep>
+<plandu>foot_us</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>D North American 1983</horizdn>
+<ellips>GRS 1980</ellips>
+<semiaxis>6378137.0</semiaxis>
+<denflat>298.257222101</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>RI_CoastalWaters13</enttypl>
+<enttypd>Shapefile</enttypd>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Water</attrlabl>
+<attrdef>Specifies if a given polygon occurs in water.</attrdef>
+<attrdefs>RI Department of Administration, Statewide Planning Program</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Yes</edomv>
+<edomvd>Polygon represents water.</edomvd>
+<edomvds>RI Department of Administration, Statewide Planning Program</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Erica Tefft</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>erica@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</distrib>
+<distliab>This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Esri shapefile</formname>
+<filedec>ZIP</filedec>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.rigis.org</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20140318</metd>
+<metrd>20140318</metrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>RI Department of Administration</cntorg>
+<cntper>Christina Delage Baza, GISP</cntper>
+</cntorgp>
+<cntpos>GIS Specialist II</cntpos>
+<cntaddr>
+<addrtype>physical</addrtype>
+<address>One Capitol Hill</address>
+<city>Providence</city>
+<state>Rhode Island</state>
+<postal>02908</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>401-222-6481</cntvoice>
+<cntfax>401-222-2083</cntfax>
+<cntemail>Christina.Delagebaza@doa.ri.gov</cntemail>
+<hours>8:30am to 4:30pm</hours>
+<cntinst>e-mail is preferred</cntinst>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+</metainfo>
+</metadata>
